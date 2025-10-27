@@ -12,12 +12,19 @@ Welcome to my GitHub profile! I’m Muhammad Hamza, an AI / Machine Learning Eng
 
 ## 🛠️ Professional Expertise
 
-* **Machine Learning & Deep Learning**: Model building, evaluation, and optimization (Scikit-learn, TensorFlow, PyTorch)
-* **Natural Language Processing (NLP)**: Transformer models, LLMs, NLTK, SpaCy
+* **Programming Languages**: Python (NumPy, Pandas, Scikit-learn, TensorFlow, Keras), SQL
+* **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn
+* **Data Science & Analytics**: Data Analysis, Exploratory Data Analysis (EDA), Statistical Modeling, PredictiveAnalytics, A/B Testing, Hypothesis Testing, Correlation Analysis
+* **Machine Learning**: Supervised Learning (Regression, Classification), Unsupervised Learning (Clustering,Dimensionality Reduction), Feature Engineering, Model Evaluation, Cross Validation, Hyperparameter Tuning
+* **Data Processing & ETL**: Data Cleaning, Data Preprocessing, Data Transformation, ETL Pipelines, DataIntegration
+* **Visualization Tools**: Power BI, Matplotlib, Seaborn, Plotly, Dashboard Development, InteractiveReporting
+* **Deep Learning**: Neural Networks, Convolutional Neural Networks (CNNs), Recurrent Neural Networks(RNNs), LSTMs, Transfer Learning, Model Optimization
+* **Databases**: SQL, MySQL, PostgreSQL, Relational Database Management, Query Optimization, DatabaseDesign
+* **Natural Language Processing**: NLTK, SpaCy, Text Mining, Tokenization, Sentiment Analysis, TextClassification
 * **Generative AI & RAG**: LangChain, LangGraph, Hugging Face Transformers
 * **API Development & Deployment**: FastAPI, Streamlit, Gradio
+* **Tools & Platforms**: Jupyter Notebooks, Google Colab, Git/GitHub, VS Code, Excel
 * **Containerization**: Docker for ML model deployment
-* **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn
 
 ---
 
