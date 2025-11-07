@@ -36,6 +36,7 @@ Welcome to my GitHub profile! I’m Muhammad Hamza, an AI / Machine Learning Eng
 * Developed and optimized deep learning models for image and text analysis, improving classification accuracy by 18% through systematic hyperparameter tuning and advanced data augmentation techniques
 * Built end-to-end data preprocessing pipelines including feature engineering, cleaning, and augmentation that increased training dataset quality by 25% and reduced model overfitting by 15%
 * Implemented CNN and transformer-based architectures in TensorFlow/Keras, reducing training time by 30% through optimized data pipelines and early stopping strategies
+
 🏢 **NCAI – UET Peshawar – Web Developer Intern**
 **Feb 2022 – Nov 2022** | Peshawar, Pakistan (On-site)
 
