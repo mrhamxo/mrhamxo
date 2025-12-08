@@ -94,7 +94,7 @@ Welcome to my GitHub profile! I’m Muhammad Hamza, an AI / Machine Learning Eng
 ⚙️ **GitHub Analytics**
 
 ## ⚙️ GitHub Analytics  
-[![Top Languages](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=mrhamxo)](https://github.com/mrhamxo)
-[![GitHub Streak](https://streak-stats.demolab.com?user=mrhamxo)](https://github.com/mrhamxo)
+[![Top Languages](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=mrhamxo)](https://github.com/mrhamxo/mrhamxo)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mrhamxo)](https://github.com/mrhamxo/mrhamxo)
 
 ---
