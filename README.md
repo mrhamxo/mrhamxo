@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I’m Muhammad Hamza, an AI / Machine Learning Eng
 ## 💼 Experience
 
 🏢 **ITSOLERA – ML Engineer**
-**Nov 2022 – Feb 2024** | UAE - Remote
+**Nov 2022 – Feb 2024** | Pakistan
 
 * Developed and optimized deep learning models for image and text analysis, improving classification accuracy by 18% through systematic hyperparameter tuning and advanced data augmentation techniques
 * Built end-to-end data preprocessing pipelines including feature engineering, cleaning, and augmentation that increased training dataset quality by 25% and reduced model overfitting by 15%
