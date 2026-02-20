@@ -1,8 +1,10 @@
 # Muhammad Hamza
 
-🌐 **AI / Machine Learning Engineer | Generative AI | NLP | RAG Applications**
+🌐 **Data Scientist | Data Science & Analytics | Generative AI Enthusiast**
 
-Welcome to my GitHub profile! I’m Muhammad Hamza, an AI / Machine Learning Engineer with strong expertise in ML, DL, NLP, Generative AI (Hugging Face, RAG), and Python programming. With a solid academic background in Data Science and practical experience from internships and projects, I focus on building intelligent, scalable AI solutions, deploying ML models, and creating interactive AI-powered applications.
+Welcome to my GitHub profile! I’m Muhammad Hamza, a Data Scientist with a strong focus on Data Science and Analytics. I specialize in analyzing complex datasets, building predictive models, and transforming raw data into actionable insights using Python, SQL, and statistical techniques.
+
+With a solid academic background in Data Science and hands-on experience through projects and internships, I focus on exploratory data analysis, feature engineering, model development, and data visualization to support data-driven decision making and business growth.
 
 📈 **my github stats**
 
@@ -12,19 +14,13 @@ Welcome to my GitHub profile! I’m Muhammad Hamza, an AI / Machine Learning Eng
 
 ## 🛠️ Professional Expertise
 
-* **Programming Languages**: Python (NumPy, Pandas, Scikit-learn, TensorFlow, Keras), SQL
-* **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn
-* **Data Science & Analytics**: Data Analysis, Exploratory Data Analysis (EDA), Statistical Modeling, PredictiveAnalytics, A/B Testing, Hypothesis Testing, Correlation Analysis
-* **Machine Learning**: Supervised Learning (Regression, Classification), Unsupervised Learning (Clustering,Dimensionality Reduction), Feature Engineering, Model Evaluation, Cross Validation, Hyperparameter Tuning
-* **Data Processing & ETL**: Data Cleaning, Data Preprocessing, Data Transformation, ETL Pipelines, DataIntegration
-* **Visualization Tools**: Power BI, Matplotlib, Seaborn, Plotly, Dashboard Development, InteractiveReporting
-* **Deep Learning**: Neural Networks, Convolutional Neural Networks (CNNs), Recurrent Neural Networks(RNNs), LSTMs, Transfer Learning, Model Optimization
-* **Databases**: SQL, MySQL, PostgreSQL, Relational Database Management, Query Optimization, DatabaseDesign
-* **Natural Language Processing**: NLTK, SpaCy, Text Mining, Tokenization, Sentiment Analysis, TextClassification
-* **Generative AI & RAG**: LangChain, LangGraph, Hugging Face Transformers
-* **API Development & Deployment**: FastAPI, Streamlit, Gradio
-* **Tools & Platforms**: Jupyter Notebooks, Google Colab, Git/GitHub, VS Code, Excel
-* **Containerization**: Docker for ML model deployment
+* **Programming Languages:** Python (NumPy, Pandas, Scikit-learn), SQL
+* **Data Analysis & Analytics:** Exploratory Data Analysis (EDA), Statistical Modeling, Predictive Analytics, A/B Testing, Hypothesis Testing, Correlation Analysis
+* **Machine Learning:** Supervised Learning (Regression, Classification), Unsupervised Learning (Clustering, Dimensionality Reduction), Feature Engineering, Model Evaluation, Cross-Validation, Hyperparameter Tuning
+* **Data Processing & ETL:** Data Cleaning, Preprocessing, Transformation, ETL Pipelines, Data Integration
+* **Visualization & Reporting:** Power BI, Matplotlib, Seaborn, Plotly, Dashboard Development, Interactive Reporting
+* **Databases:** SQL, MySQL, PostgreSQL, Query Optimization, Database Design
+* **Tools & Platforms:** Jupyter Notebook, Google Colab, Git/GitHub, Excel
 
 ---
 
@@ -38,7 +34,7 @@ Welcome to my GitHub profile! I’m Muhammad Hamza, an AI / Machine Learning Eng
 * Implemented CNN and transformer-based architectures in TensorFlow/Keras, reducing training time by 30% through optimized data pipelines and early stopping strategies
 
 🏢 **NCAI – UET Peshawar – Web Developer Intern**
-**Feb 2022 – Nov 2022** | Peshawar, Pakistan (On-site)
+**Feb 2022 – Nov 2022** | Peshawar, Pakistan
 
 * Engineered PHP-based smart parking management system that automated space allocation for 500+ daily users, improving campus parking efficiency by 40%
 * Built dynamic weather forecasting web application integrating external APIs to deliver real-time environmental data, serving 1,000+ monthly active users
@@ -47,20 +43,18 @@ Welcome to my GitHub profile! I’m Muhammad Hamza, an AI / Machine Learning Eng
 ---
 
 ## 🧠 Projects
-
-* **[LangGraph-Powered Agentic Chatbot](https://github.com/mrhamxo/LangGraph-Powered-Agentic-Chatbot)** – Multi-agent chatbot with Groq, OpenAI, Tavily APIs.
-* **[AI-Powered Image Analysis Chatbot](https://github.com/mrhamxo/AI-Powered-Image-Analyze-Application)** – Vision-Language model-based image Q\&A.
+* **[Bank Loan Performance Analysis](https://github.com/mrhamxo/Finance-Project---Bank-Analysis)** – Loan default prediction and Power BI dashboards for improved portfolio performance.
+* **[E-Commerce Sales Analytics](https://github.com/mrhamxo/Store-sales)** – Sales and inventory analytics with automated Power BI dashboards boosting insights and efficiency.
 * **[Log Message Classification System](https://log-messages-classification.streamlit.app/)** – Regex, BERT, and LLaMA3-powered log analysis.
 * **[AI-Based Disease & Treatment Advisor](https://ai-based-disease-and-treatment-advisor.streamlit.app/)** – Predicts diseases from symptoms using ML.
-* **[Modular RAG-Powered PDF Chatbot](https://github.com/mrhamxo/Modular-RAG-Powered-PDF-Chatbot)** – Multi-PDF querying via ChromaDB & LLaMA3.
 * **[MRI Brain Tumor Multi-Detection](https://github.com/mrhamxo/MRI-Brain-Tumor-Multi-Classification)** – Brain tumor classification using DL.
 
 ---
 
-## 🏆 Achievements & Certifications
+## Certifications
 
 * **Google Data Analytics** – [View Certificate](https://lms.ehunar.org/certificate/f7e5a7460d)
-* **AI for Medicine Specialization** – [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/HTDJEN6FNULP)
+* **Google Project Management** – [View Certificate](https://www.coursera.org/account/accomplishments/professional-cert/XNGF7DLZA8DM)
 * **Generative AI Engineering with LLM** – [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/YWPZH8KBC2XJ)
 
 ---
@@ -72,16 +66,6 @@ Welcome to my GitHub profile! I’m Muhammad Hamza, an AI / Machine Learning Eng
 
 **Bachelor of Science in Software Engineering** – Islamia College University, Peshawar
 *(Sep 2018 – Aug 2022)*
-
----
-
-## 🛠️ Skills
-
-* **Core Skills:** ML, DL, NLP, RAG, Model Evaluation, Data Analysis, Data Visualization
-* **Languages:** Python, SQL
-* **Libraries & Frameworks:** Scikit-learn, TensorFlow, PyTorch, Hugging Face, NLTK, SpaCy
-* **Tools:** LangChain, LangGraph, FastAPI, Streamlit, Gradio, Docker, Google Colab, Jupyter
-* **Cloud & Deployment:** GitHub, Hugging Face Spaces, Streamlit Cloud
 
 ---
 
