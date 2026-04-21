@@ -58,11 +58,11 @@ With a solid academic background in Data Science and hands-on experience through
 
 ## 📊 GitHub Statistics
 
-[![Hamza's GitHub stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=mrhamxo&show_icons=true&theme=radical)](https://github.com/mrhamxo/mrhamxo)
+[![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrhamxo&show_icons=true&theme=radical)](https://github.com/mrhamxo)
 
-[![Top Languages](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=mrhamxo&theme=radical)](https://github.com/mrhamxo/mrhamxo)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrhamxo&theme=radical)](https://github.com/mrhamxo)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mrhamxo&theme=radical)](https://github.com/mrhamxo/mrhamxo)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mrhamxo&theme=radical)](https://github.com/mrhamxo)
 
 ---
 
