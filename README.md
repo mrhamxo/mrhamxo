@@ -13,7 +13,6 @@ With a solid academic background in Data Science and hands-on experience through
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### Data Science & ML Libraries
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -36,7 +35,6 @@ With a solid academic background in Data Science and hands-on experience through
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Cloud Platforms (Data Science)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
@@ -60,7 +58,7 @@ With a solid academic background in Data Science and hands-on experience through
 
 ## 📊 GitHub Statistics
 
-![Hamza's GitHub stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=mrhamxo&show_icons=true&theme=radical)
+[![Hamza's GitHub stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=mrhamxo&show_icons=true&theme=radical)](https://github.com/mrhamxo/mrhamxo)
 
 [![Top Languages](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=mrhamxo&theme=radical)](https://github.com/mrhamxo/mrhamxo)
 
@@ -129,10 +127,5 @@ With a solid academic background in Data Science and hands-on experience through
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamza-khattak)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrhamxo)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mrhamxo)
 [![Portfolio](https://img.shields.io/badge/Streamlit%20Portfolio-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://share.streamlit.io/user/mrhamxo)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
----
-
-⭐ **Feel free to explore my repositories and connect with me for collaborations and discussions on Data Science!**
