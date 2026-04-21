@@ -107,6 +107,7 @@ With a solid academic background in Data Science and hands-on experience through
 
 ## 🏆 Certifications
 
+* **Azure AI - 900 Fundamentals** – [View Certificate](https://learn.microsoft.com/en-us/users/muhammadhamza-3503/credentials/f40939fddca8e71a?ref=https%3A%2F%2F)
 * **Google Data Analytics** – [View Certificate](https://lms.ehunar.org/certificate/f7e5a7460d)
 * **Google Project Management** – [View Certificate](https://www.coursera.org/account/accomplishments/professional-cert/XNGF7DLZA8DM)
 * **Generative AI Engineering with LLM** – [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/YWPZH8KBC2XJ)
