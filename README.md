@@ -68,30 +68,15 @@ With a solid academic background in Data Science and hands-on experience through
 
 ## 🛠️ Professional Expertise
 
-* **Data Analysis & Analytics:** Exploratory Data Analysis (EDA), Statistical Modeling, Predictive Analytics, A/B Testing, Hypothesis Testing, Correlation Analysis
+* **Programming:** Python (NumPy, Pandas, Matplotlib, Seaborn, PySpark) and SQL
+* **Data Analytics & ETL:** Exploratory Data Analysis (EDA), Statistical Modeling, Predictive Analytics, A/B Testing, Hypothesis Testing, Correlation Analysis, ETL/ELT Pipelines,
+* **Data Visualization:** PowerBI, Tableau, IBM Cognos Analytics, Excel
 * **Machine Learning:** Supervised Learning (Regression, Classification), Unsupervised Learning (Clustering, Dimensionality Reduction), Feature Engineering, Model Evaluation, Cross-Validation, Hyperparameter Tuning
-* **Deep Learning:** CNN, RNN, Transformers, BERT, Transfer Learning, Image Classification, Natural Language Processing
-* **Data Processing & ETL:** Data Cleaning, Preprocessing, Transformation, ETL Pipelines, Data Integration
-* **Database Management:** SQL Query Optimization, Database Design, Data Warehousing
-* **Cloud & Deployment:** ML Model Deployment, Cloud-based Analytics, API Development
-
----
-
-## 💼 Experience
-
-🏢 **ITSOLERA – ML Engineer**
-**Nov 2022 – Feb 2024** | Pakistan
-
-* Developed and optimized deep learning models for image and text analysis, improving classification accuracy by 18% through systematic hyperparameter tuning and advanced data augmentation techniques
-* Built end-to-end data preprocessing pipelines including feature engineering, cleaning, and augmentation that increased training dataset quality by 25% and reduced model overfitting by 15%
-* Implemented CNN and transformer-based architectures in TensorFlow/Keras, reducing training time by 30% through optimized data pipelines and early stopping strategies
-
-🏢 **NCAI – UET Peshawar – Web Developer Intern**
-**Feb 2022 – Nov 2022** | Peshawar, Pakistan
-
-* Engineered PHP-based smart parking management system that automated space allocation for 500+ daily users, improving campus parking efficiency by 40%
-* Built dynamic weather forecasting web application integrating external APIs to deliver real-time environmental data, serving 1,000+ monthly active users
-* Created and annotated 10,000+ image datasets (vehicles, weapons, medical cases) for AI classification project, providing high-quality labeled data that improved model training accuracy
+* **Deep Learning:** CNN, RNN, Transformers, BERT, Transfer Learning, Image Classification, Natural Language Processing, Transformer
+* **Data Processing & ETL:** Data Cleaning, Preprocessing, Transformation, ETL/ELT Pipelines, Data Integration, Snowflake, PySpark
+* **Database:** MySQL, SQLite, SQLPostgre, SQL Server, IBM DB2, SQL Query Optimization, Database Design, Data Warehousing
+* **Tools :** GitHub, Jupyter Notebook, Google Colab, Vs Code
+* **Cloud & Deployment:** IBM Cloud, Azure AI Foundry, API Development and Integration
 
 ---
 
