@@ -1,6 +1,6 @@
 # Muhammad Hamza
 
-🌐 **Data Scientist | Data Science & Analytics | Generative AI Enthusiast**
+🌐 **Data Analyst / Scientist | Data Science & Analytics | Generative AI Enthusiast**
 
 Welcome to my GitHub profile! I'm Muhammad Hamza, a Data Scientist with a strong focus on Data Science and Analytics. I specialize in analyzing complex datasets, building predictive models, and transforming raw data into actionable insights using Python, SQL, and statistical techniques.
 
