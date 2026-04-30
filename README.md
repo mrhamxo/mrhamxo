@@ -2,9 +2,9 @@
 
 🌐 **Data Analyst / Scientist | Data Science & Analytics | Generative AI Enthusiast**
 
-Welcome to my GitHub profile! I'm Muhammad Hamza, a Data Scientist with a strong focus on Data Science and Analytics. I specialize in analyzing complex datasets, building predictive models, and transforming raw data into actionable insights using Python, SQL, and statistical techniques.
+Welcome to my GitHub profile! I'm Muhammad Hamza, a Data Scientist with a strong focus on Data Science and Analytics. I specialize in analyzing complex datasets, building predictive models, and transforming raw data into actionable insights using Python, SQL, Excel, Power BI, IBM Cognos and statistical techniques.
 
-With a solid academic background in Data Science and hands-on experience through projects and internships, I focus on exploratory data analysis, feature engineering, model development, and data visualization to support data-driven decision making and business growth.
+With a solid work experience and academic background in Data Science and hands-on through projects and internships, I focus on exploratory data analysis, feature engineering, model development, and data visualization to support data-driven decision making and business growth.
 
 ---
 
