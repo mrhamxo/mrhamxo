@@ -2,7 +2,7 @@
 
 🌐 **Data Analyst / Scientist | Data Science & Analytics | Generative AI Enthusiast**
 
-Welcome to my GitHub profile! I'm Muhammad Hamza, a Data Scientist with a strong focus on Data Science and Analytics. I specialize in analyzing complex datasets, building predictive models, and transforming raw data into actionable insights using Python, SQL, Excel, Power BI, IBM Cognos and statistical techniques.
+Welcome to my GitHub profile! I'm Muhammad Hamza, a Data Scientist with a strong focus on Data Science and AI. I specialize in analyzing complex datasets, building predictive models, and transforming raw data into actionable insights using Python, SQL, Excel, Power BI, IBM Cognos and statistical techniques.
 
 With a solid work experience and academic background in Data Science and hands-on through projects and internships, I focus on exploratory data analysis, feature engineering, model development, and data visualization to support data-driven decision making and business growth.
 
@@ -77,16 +77,6 @@ With a solid work experience and academic background in Data Science and hands-o
 * **Database:** MySQL, SQLite, SQLPostgre, SQL Server, IBM DB2, SQL Query Optimization, Database Design, Data Warehousing
 * **Tools :** GitHub, Jupyter Notebook, Google Colab, Vs Code
 * **Cloud & Deployment:** IBM Cloud, Azure AI Foundry, API Development and Integration
-
----
-
-## 🧠 Featured Projects
-
-* **[Bank Loan Performance Analysis](https://github.com/mrhamxo/Finance-Project---Bank-Analysis)** – Loan default prediction and Power BI dashboards for improved portfolio performance.
-* **[E-Commerce Sales Analytics](https://github.com/mrhamxo/Store-sales)** – Sales and inventory analytics with automated Power BI dashboards boosting insights and efficiency.
-* **[Log Message Classification System](https://log-messages-classification.streamlit.app/)** – Regex, BERT, and LLaMA3-powered log analysis.
-* **[AI-Based Disease & Treatment Advisor](https://ai-based-disease-and-treatment-advisor.streamlit.app/)** – Predicts diseases from symptoms using ML.
-* **[MRI Brain Tumor Multi-Detection](https://github.com/mrhamxo/MRI-Brain-Tumor-Multi-Classification)** – Brain tumor classification using DL.
 
 ---
 
